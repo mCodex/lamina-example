@@ -84,6 +84,7 @@ return [
                 'hydrator_name' => \Laminas\Hydrator\ArraySerializable::class,
                 'controller_service_name' => 'Project\\V1\\Rest\\Users\\Controller',
                 'entity_identifier_name' => 'id',
+                'table_service' => 'Project\\V1\\Rest\\Users\\UsersResource\\Table',
             ],
         ],
     ],

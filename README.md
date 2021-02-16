@@ -4,4 +4,6 @@ A simple [lamina project](https://api-tools.getlaminas.org/) demonstrating all R
 
 ## Description
 
-This repository is just an example about using the HATEOAS (Hypermedia as the Engine of Application State) from REST's implementation
+This repository is just an example about using the HATEOAS (Hypermedia as the Engine of Application State) from REST's implementation and also Method and Content negotiation. 
+
+There is an postman collection [here](./docs/collection.json) that can be used as example
